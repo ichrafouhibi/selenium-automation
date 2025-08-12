@@ -24,7 +24,7 @@ Ce dépôt contient plusieurs scripts Python utilisant Selenium pour automatiser
 
 ## Prérequis
 
-- Python 3.x  
+- Python 3.13.6 
 - [Selenium](https://www.selenium.dev/)  
 - Navigateur Chrome ou Firefox avec le WebDriver correspondant
 
